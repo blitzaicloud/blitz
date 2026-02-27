@@ -1,5 +1,5 @@
 ::: {align="center"}
-`<img src="YOUR_LOGO_IMAGE_URL_HERE" alt="blitz logo" width="200"/>`{=html}
+`<img src="![Image](https://github.com/user-attachments/assets/eafac3f9-ecd4-40ec-81ad-f8b8dca85ffa)" alt="blitz logo" width="200"/>`{=html}
 
 # blitz
 
