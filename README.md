@@ -87,9 +87,9 @@ blitz is composed of five coordinated layers:
 
 Every agent moves through explicit states:
 
-                +---------+
-                |  Idle   |
-                +----+----+
+                +--------+
+                |  Idle  |
+                +----+---+
                      |
                      v
                +-----+------+
@@ -98,17 +98,18 @@ Every agent moves through explicit states:
                      |
                      v
                 +----+----+
-                |  Queued |
+                |  Queue  |
                 +----+----+
                      |
                      v
-              +------+------+          |  Allocated  |
-              +------+-------+
+              +------+------+          
+              |  Allocated  |
+              +------+------+
                      |
                      v
-                +----+----+
-                |  Active |
-                +---------+
+                +----+-----+
+                |  Active  |
+                +----------+
 
 Each transition is capacity-aware and observable.
 
