@@ -1,17 +1,3 @@
-::: {align="center"}
-`<img src="![Image](https://github.com/user-attachments/assets/eafac3f9-ecd4-40ec-81ad-f8b8dca85ffa)" alt="blitz logo" width="200"/>`{=html}
-
-# blitz
-
-### Autonomous systems. Structured deployment.
-
-`<a href="https://x.com/blitzaireal">`{=html}
-`<img alt="Follow on X" src="https://img.shields.io/badge/X-@blitzaireal-111111?style=for-the-badge&logo=x&logoColor=white"/>`{=html}
-`</a>`{=html}
-:::
-
-------------------------------------------------------------------------
-
 # Overview
 
 **blitz** is a structured orchestration layer for autonomous AI agents.\
